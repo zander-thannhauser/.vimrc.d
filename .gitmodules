@@ -1,3 +1,6 @@
 [submodule "plugins/rainbow"]
 	path = plugins/rainbow
 	url = https://github.com/luochen1990/rainbow
+[submodule "plugins/vim-surround"]
+	path = plugins/vim-surround
+	url = https://github.com/tpope/vim-surround.git
