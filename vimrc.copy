@@ -1,6 +1,0 @@
-
-for file in globpath("$HOME/.vimrc.d", "**/*.vimrc", 0, 1)
-	execute "source " . file
-endfor
-
-

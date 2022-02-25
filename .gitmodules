@@ -1,0 +1,3 @@
+[submodule "plugins/rainbow"]
+	path = plugins/rainbow
+	url = https://github.com/luochen1990/rainbow

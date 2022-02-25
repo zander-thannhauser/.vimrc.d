@@ -7,7 +7,7 @@ In attempt to be organized, the actual content of the `.vimrc` is just:
 
 ```
 
-for file in globpath("$HOME/.vimrc.d", "**/*.vimrc", 0, 1)
+for file in globpath("$HOME/.vimrc.d", "**/*.vim", 0, 1)
 	execute "source " . file
 endfor
 
